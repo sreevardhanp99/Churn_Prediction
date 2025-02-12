@@ -68,10 +68,13 @@ We are a dedicated team of interns working on this project:
 - **Alendher Goud**
 
 
-## Follow Me
+## Follow US
 
 - **LinkedIn:** [sreevardhanp](https://www.linkedin.com/in/sreevardhanp)
 - **GitHub:** [sreevardhanp99](https://github.com/sreevardhanp99)
+- **LinkedIn:** [alendher](https://www.linkedin.com/in/alendher-goud-96baa926a/)
+- **GitHub:** [alendher](https://github.com/alendher)
+
 
 ## Star Repository
 
